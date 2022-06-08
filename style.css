@@ -1,0 +1,5 @@
+body{
+  background-image: url('/img/Rectangle.svg');
+  background-repeat: no-repeat;
+  object-fit: fill;
+}
